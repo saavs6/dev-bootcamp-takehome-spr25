@@ -158,6 +158,13 @@ body {
         border-radius: 8px;
         cursor: pointer;
     }
+    .inputButton{
+        background: darkslategray;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+    }
     .l{
         opacity: 0;
         position: fixed;
